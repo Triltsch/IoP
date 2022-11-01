@@ -1,0 +1,5 @@
+﻿layer_height;wall_thickness;infill_density;infill_pattern;nozzle_temperature;bed_temperature;print_speed;material;fan_speed;roughness;tension_strenght;elongation
+0.02;8;90;grid;225;65;40;abs;75;68;5;0.7
+0.02;6;80;honeycomb;230;75;60;pla;100;30;14;1.04
+0.15;4;50;grid;250;75;60;abs;0;168;27;2.4
+0.2;4;40;grid;220;75;120;pla;25;220;27;3.1
