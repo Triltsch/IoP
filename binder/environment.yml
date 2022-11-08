@@ -5,5 +5,5 @@ dependencies:
   - toolz
   - matplotlib
   - seaborn
-  - sklearn
+  - scikit-learn
   - pandas
