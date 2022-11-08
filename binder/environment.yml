@@ -4,3 +4,6 @@ dependencies:
   - psutil
   - toolz
   - matplotlib
+  - seaborn
+  - sklearn
+  - pandas
